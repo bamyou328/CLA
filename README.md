@@ -1,6 +1,6 @@
 # hello-world
 
-hi humans
+Hi Humans!
 
-Hubot here, I like Node.js and coffeescripts (that's what I am mad of!)
-I have had tacos on the moon and find them far superior to earth tacos.
+Hubot here, I like Node.js and coffeescripts (that's what I'm mad of!).
+I've had tacos on the moon and find them far superior to earth tacos.
