@@ -1,8 +1,9 @@
 # hello-world
+Readme-edits
 
-Just another repository
+=======
 
 Hi Humans!
 
-Hubot here, I like Node.js and coffeescripts (that's what I'm mad of!).
-I've had tacos on the moon and find them far superior to earth tacos.
+Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
+I've had tacos on the moon and I find them far superior to Earth tacos.
